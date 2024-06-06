@@ -1,6 +1,6 @@
 - 👋 Hi, I’m A. Attipoe
 - 👀 Associate Data Analyst
-- 🌱 Experienced in Python,Nachine Learning, SQL and Power BI
+- 🌱 Experienced in Python,Machine Learning, SQL and Power BI
 - 💞️ I’m looking to collaborate on Data related projects
 - 📫 You can reach me at kafui301995@gmail.com
 - 😄 Pronouns: She/Her
