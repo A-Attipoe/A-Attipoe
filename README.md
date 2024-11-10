@@ -1,5 +1,5 @@
 - 👋 Hi, I’m A. Attipoe
-- 👀 Associate Data Analyst
+- 👀 Data Analyst
 - 🌱 Python,Machine Learning, SQL and Power BI
 - 💞️ I’m looking to collaborate on Data related projects
 - 📫 You can reach me at kafui301995@gmail.com
